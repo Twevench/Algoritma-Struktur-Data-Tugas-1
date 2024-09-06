@@ -1,0 +1,6 @@
+•inisiai
+1. Masukkan angka
+•proses
+2. Jika angka dibagi 2 sisanya adalah 0 maka angka adalah genap, jika tidak maka angka adalah ganjil 
+•output
+3. Cetak angkat "ganjil" atau "genap"
