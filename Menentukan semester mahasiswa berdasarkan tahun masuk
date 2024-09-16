@@ -1,0 +1,15 @@
+• Insiansi
+1. Tahun masuk mahasiswa (misalnya 2021).
+2. Tahun saat ini (misalnya 2025).
+3. Semester saat ini (misalnya semester_saat_ini, 1 untuk semester ganjil dan 2 untuk semester genap).
+• Proses
+1. Hidung selisih tahun antara tahun saat ini dan tahun masuk:
+
+selisihtahun= tahun saat ini - tahun masuk
+
+3. Hitung semester total yang telah dilalui:
+
+semester total = selisih tahun x 2 + semester saat ini
+
+• Output:
+1. semester_total adalah semester yang sedang dijalani mahasiswa tersebut.
